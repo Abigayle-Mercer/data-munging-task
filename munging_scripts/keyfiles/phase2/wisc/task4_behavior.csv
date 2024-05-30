@@ -1,0 +1,14 @@
+behavior_surface_noldus,Task4a,Task4b
+caring/grooming - self,personal_care,housework_personal
+caring/grooming - animal/pet,personal_care,housework_personal
+caring/grooming - child,personal_care,housework_personal
+cooking/meal preparation,food_prep,housework_personal
+cleaning,housework,housework_personal
+laundry,housework,housework_personal
+c/f/r/m,maintenance_repair,maintenance_repair
+lawn&garden,lawn_garden,lawn_garden
+leisure based,social_leisure_nonscreen,social_leisure_nonscreen
+eating/drinking,social_leisure_nonscreen,social_leisure_nonscreen
+talking - person,social_leisure_nonscreen,social_leisure_nonscreen
+talking - phone,leisure_screen,screen_use
+sports/exercise,sport_exercise,sport_exercise

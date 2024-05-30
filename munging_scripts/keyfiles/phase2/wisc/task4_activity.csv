@@ -1,0 +1,23 @@
+activity_surface_noldus,Task4a,Task4b
+playing video games,leisure_screen,screen_use
+using computer,desk_screen,office_work
+using phone,leisure_screen,screen_use
+watching tv/monitor,leisure_screen,screen_use
+mixing/stirring,food_prep,housework_personal
+paring,food_prep,housework_personal
+mopping,housework,housework_personal
+scrubbing/wiping,housework,housework_personal
+sweeping,housework,housework_personal
+vacuuming,housework,housework_personal
+using power tools,maintenance_repair,maintenance_repair
+digging/shoveling,lawn_garden,lawn_garden
+drawing/writing,social_leisure_nonscreen,social_leisure_nonscreen
+reading,social_leisure_nonscreen,social_leisure_nonscreen
+sewing machine,social_leisure_nonscreen,social_leisure_nonscreen
+[m] exercise,sport_exercise,sport_exercise
+calisthenics,sport_exercise,sport_exercise
+cardio machine,sport_exercise,sport_exercise
+gross sport,sport_exercise,sport_exercise
+[m] travel,travel_active,travel_active
+driving automobile,travel_car,travel_vehicle
+using touch-based device,leisure_screen,screen_use

@@ -1,0 +1,11 @@
+posture_surface_noldus,Task2c,Task2b,Task2a
+standing,mixed_movement,stand_move,stand
+walking,walk,walk,walk
+sitting,sedentary,sedentary,sitting
+stepping,mixed_movement,stand_move,stepping
+crouching/kneeling/squatting,sedentary,sedentary,kneel_squat
+running,run,run,run
+descending stairs,walk,walk,walk
+ascending stairs,walk,walk,walk
+cycling,mixed_movement,bike,bike
+lying,sedentary,sedentary,lying

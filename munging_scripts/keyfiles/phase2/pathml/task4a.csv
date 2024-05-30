@@ -1,0 +1,22 @@
+Behavior,Task4a
+CA- caring for and helping children,housework
+"EAT- eating and drinking, waiting",eating_drinking
+"EDU- taking class, research, homework",office_work
+"EX- participating in sport, exercise or recreation",sport_exercise
+HA- animals and pets,housework
+"HA- exterior maintenance, repair, & decoration",maintenance_repair
+HA- food prep and cleanup,food_prep
+HA- household management/other household activities,housework
+HA- housework,housework
+"HA- interior maintenance, repair, & decoration",maintenance_repair
+"HA- lawn, garden and houseplants",lawn_garden
+"LES- screen based leisure time (TV, video game, computer)",leisure_screen
+"LES- socializing, communicating, leisure time not screen",social_leisure_nonscreen
+"PC- groom, health-related",personal_care
+PUR- purchasing goods and services,other
+TRAV- biking,travel_active
+TRAV- passenger (car/truck/motorcycle),travel_car
+TRAV- walking,travel_active
+WRK- screen based,desk_screen
+SP- Leisure and Hospiltality,office_work
+"SP- Office (business, professional services, finance, info)",office_work

@@ -1,0 +1,14 @@
+Behavior,Task5b,Task5a
+IN-House,indoor,indoor_house
+IN-Office,indoor,indoor_office
+IN-Other (free response),indoor,indoor_other
+IN-Other (Free response),indoor,indoor_other
+IN-School,indoor,indoor_classroom
+IN-Store or Commercial Building,indoor,indoor_store
+OUT - Residential Neighborhood,outdoor,outdoor_residential
+OUT-Commercial Space,outdoor,outdoor_commercial
+OUT-other (free response),outdoor,outdoor_other
+OUT-Other (free response),outdoor,outdoor_other
+OUT-Park/Greenspace,outdoor,outdoor_park
+OUT-Residential Neighborhood,outdoor,outdoor_residential
+TRAV-drive,vehicular_travel,vehicular_travel

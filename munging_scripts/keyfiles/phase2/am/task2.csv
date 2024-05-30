@@ -1,0 +1,16 @@
+Behavior,Task2a,Task2b,Task2c
+LA- kneeling/ squatting,kneel_squat,sedentary,sedentary
+LA- stand,stand,stand_move,mixed_movement
+LA- stand and move,stepping,stand_move,mixed_movement
+LA- stand and move with unidentifiable upper body movement,stepping,stand_move,mixed_movement
+LA- stand and move with upper body movement,stepping,stand_move,mixed_movement
+LA- stretching,other,other,private
+SB- lying,lying,sedentary,sedentary
+SB-sitting,sitting,sedentary,sedentary
+SP- bike,bike,bike,mixed_movement
+SP- other sport movement,sport_move,sport_move,mixed_movement
+WA- ascend stairs,walk,walk,walk
+WA- descend stairs,walk,walk,walk
+WA- running,run,run,run
+WA- walk,walk,walk,walk
+WA-walk with load,walk,walk,walk

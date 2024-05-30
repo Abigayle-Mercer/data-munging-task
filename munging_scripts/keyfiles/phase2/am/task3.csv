@@ -1,0 +1,10 @@
+Behavior,Task3
+SB- lying,sedentary
+SB-sitting,sedentary
+LA- kneeling/ squatting,sedentary
+LA- stand,light
+LA- stretching,light
+sedentary,sedentary
+light,light
+moderate,moderate
+vigorous,vigorous

@@ -1,0 +1,16 @@
+Behavior,Task1
+LA- kneeling/ squatting,sedentary
+LA- stand,active
+LA- stand and move,active
+LA- stretching,active
+private/not coded,private
+SB- lying,sedentary
+SB-sitting,sedentary
+SP- bike,active
+SP- muscle strengthening,active
+SP- other sport movement,active
+WA- ascend stairs,active
+WA- descend stairs,active
+WA- running,active
+WA- walk,active
+WA-walk with load,active

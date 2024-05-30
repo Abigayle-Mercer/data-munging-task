@@ -1,0 +1,13 @@
+posture_surface_noldus,Task1
+standing,sedentary
+walking,active
+sitting,sedentary
+intermittent movement,active
+stepping,active
+other - posture,active
+crouching/kneeling/squatting,sedentary
+running,active
+descending stairs,active
+ascending stairs,active
+cycling,active
+lying,sedentary
